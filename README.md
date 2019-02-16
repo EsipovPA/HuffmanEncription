@@ -1,4 +1,4 @@
 # HuffmanEncription
 Encoding and decoding messages using Huffamn algorithm
 
-Project built with Visual Studio 17 SE
+To test project, copy code to your Visual Studio and biuld it
